@@ -15,7 +15,7 @@ class MainActivity : AppCompatActivity() {
 
     private val pcIp = "192.168.1.6"
     private val macAddress = "10:FF:E0:DA:2E:A4"
-    private val port = 8787
+    private val port = 8790
 
     private lateinit var tvStatus: TextView
 
